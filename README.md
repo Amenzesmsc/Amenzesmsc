@@ -40,7 +40,7 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando e aprendendo:
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Me Encontre em : 
 
-* **LinkedIn:** [Insira seu link do LinkedIn aqui](https://linkedin.com/in/seu-usuario)
-* **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+* **LinkedIn:** [Insira seu link do LinkedIn aqui](https://www.linkedin.com/in/alan-menezes-r-b84756449/)
+* **E-mail:** [seu-email@dominio.com](alanmenzeshnd@gmail.com)
