@@ -31,16 +31,7 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando e aprendendo:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
-</p>
-
----
-
 ### 📫 Me Encontre em : 
 
-* **LinkedIn:** [Insira seu link do LinkedIn aqui](https://www.linkedin.com/in/alan-menezes-r-b84756449/)
-* **E-mail:** [seu-email@dominio.com](alanmenzeshnd@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/alan-menezes-r-b84756449/]
+* **E-mail:** [alanmenzeshnd@gmail.com]
